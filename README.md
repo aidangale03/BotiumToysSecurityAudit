@@ -10,7 +10,8 @@ Project consists of a security audit that assesses the security of an organizati
 
 - <b>Google Docs</b>
 
-
+<h2>Conclusion</h2>
+Overall, I think this practice case study helped me understand how to classify the importance of a control given the scope and goals of the audit. Being able to determine the organization’s needs given the scope and goals is an important skill when conducting an audit. Learning what controls corresponded to each compliance guideline was an important step in completing the stakeholder memorandum.
 <!--
  ```diff
 - text in red
