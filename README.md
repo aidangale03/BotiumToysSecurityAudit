@@ -11,9 +11,6 @@ Project consists of a security audit that assesses the security of an organizati
 - <b>Google Docs</b>
 
 
-<h2>Security Audit:</h2>
-
-
 <!--
  ```diff
 - text in red
